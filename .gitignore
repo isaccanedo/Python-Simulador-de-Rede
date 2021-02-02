@@ -1,0 +1,4 @@
+# Arquivos ignorados pelo git
+__pycache__/
+sniffer*
+*.tar.gz
